@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-11-11T10:08:36Z",
+  "total_tickets": 10,
+  "category_counts": {
+    "Login": 3,
+    "Billing": 2,
+    "Performance": 2,
+    "Feature Request": 2,
+    "How To": 1
+  },
+  "priority_counts": {
+    "High": 4,
+    "Medium": 3,
+    "Low": 3
+  },
+  "status_counts": {
+    "Resolved": 7,
+    "Open": 3
+  },
+  "sentiment_counts": {
+    "negative": 4,
+    "neutral": 3,
+    "positive": 3
+  },
+  "average_resolution_hours": 7.03,
+  "sla_breach_count": 3,
+  "sla_breach_rate_percent": 30.0
+}

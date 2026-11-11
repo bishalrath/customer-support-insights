@@ -1,0 +1,11 @@
+ticket_id,created_at,category,priority,status,resolution_hours,message
+T001,2026-10-01,Login,High,Resolved,3.2,Urgent login error blocked my account
+T002,2026-10-01,Billing,Medium,Resolved,12.5,Incorrect invoice issue but support was helpful
+T003,2026-10-02,Performance,High,Resolved,7.0,Application is very slow and failed twice
+T004,2026-10-02,Feature Request,Low,Open,0,Please add dark mode thanks
+T005,2026-10-03,Login,Medium,Resolved,4.5,Password reset worked quickly
+T006,2026-10-04,Billing,High,Resolved,2.1,Payment error resolved by excellent support
+T007,2026-10-05,Performance,Medium,Open,30.0,Dashboard is slow and broken
+T008,2026-10-05,How To,Low,Resolved,6.0,Good documentation helped me export data
+T009,2026-10-06,Login,High,Resolved,5.0,Authentication issue is urgent
+T010,2026-10-07,Feature Request,Low,Open,0,Would like additional report filters
